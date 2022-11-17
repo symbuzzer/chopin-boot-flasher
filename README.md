@@ -1,4 +1,4 @@
-# chopin-boot-flasher
+# Chopin Boot Flasher
 Kernel (boot.img) Flasher for POCO X3 GT / REDMI NOTE 10 PRO 5G  
   
 HOW TO USE:  
