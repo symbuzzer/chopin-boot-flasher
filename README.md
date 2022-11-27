@@ -1,7 +1,7 @@
 # Kernel (boot.img) Flasher for POCO X3 GT / REDMI NOTE 10 PRO 5G  
   
 HOW TO USE:  
--Create \SDK\ folder and copy Android Platform Tools in this folder  
+-Copy Android Platform Tools in same directory with *.bat file  
 -Double click to run *.bat file and follow instructions  
   
 NOTES:   
