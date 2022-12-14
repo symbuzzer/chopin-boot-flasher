@@ -1,5 +1,9 @@
 CHANGELOG:  
   
+v1.05:  
+ -Cleanup strings  
+ -Removed vbmeta.img requirement removed  
+  
 v1.04:  
  -Fixed an critical bug which causes bootloop  
  -You need to specific vbmeta.img file now  
