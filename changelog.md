@@ -2,7 +2,7 @@ CHANGELOG:
   
 v1.05:  
  -Cleanup strings  
- -Removed vbmeta.img requirement removed  
+ -vbmeta.img requirement removed  
   
 v1.04:  
  -Fixed an critical bug which causes bootloop  
